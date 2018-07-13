@@ -6,9 +6,9 @@ namespace Passagens
     public interface IClienteService
     {
         [OperationContract]
-        void Add(Cliente c);
+        void Add(ClienteWS c);
 
         [OperationContract]
-        Cliente Buscar(string nome);
+        ClienteWS Buscar(string nome);
     }
 }
