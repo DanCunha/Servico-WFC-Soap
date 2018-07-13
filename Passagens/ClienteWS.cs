@@ -3,7 +3,7 @@
 namespace Passagens
 {
     [DataContract]
-    public class Cliente
+    public class ClienteWS
     {
         [DataMember]
         public string nome { get; set; }

@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passagens", "Passagens\Passagens.csproj", "{A1B76243-0604-4EBF-80D3-00B1AA0D088C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0FD2CFD4-E0D4-455F-8B54-E6006A1115D6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hosting", "Hosting\Hosting.csproj", "{A4EB519F-9B74-4243-AE98-F71403C389F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumindoServico", "ConsumindoServico\ConsumindoServico.csproj", "{02A7FBBD-87CC-4A6C-8CE0-4005C2B4C98B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A1B76243-0604-4EBF-80D3-00B1AA0D088C} = {A1B76243-0604-4EBF-80D3-00B1AA0D088C}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,8 +28,15 @@ Global
 		{A4EB519F-9B74-4243-AE98-F71403C389F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4EB519F-9B74-4243-AE98-F71403C389F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4EB519F-9B74-4243-AE98-F71403C389F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A7FBBD-87CC-4A6C-8CE0-4005C2B4C98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A7FBBD-87CC-4A6C-8CE0-4005C2B4C98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A7FBBD-87CC-4A6C-8CE0-4005C2B4C98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A7FBBD-87CC-4A6C-8CE0-4005C2B4C98B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F722BFE6-4771-43F8-B2C7-EFD8BED2D8BF}
 	EndGlobalSection
 EndGlobal

@@ -4,3 +4,15 @@ C:\Projetos\AspNet\Passagens\Passagens\bin\Debug\Passagens.pdb
 C:\Projetos\AspNet\Passagens\Passagens\obj\Debug\Passagens.dll
 C:\Projetos\AspNet\Passagens\Passagens\obj\Debug\Passagens.pdb
 C:\Projetos\AspNet\Passagens\Passagens\obj\Debug\Passagens.csprojResolveAssemblyReference.cache
+C:\Projetos\Servico-WFC-Soap\Passagens\bin\Debug\Passagens.dll.config
+C:\Projetos\Servico-WFC-Soap\Passagens\bin\Debug\Passagens.dll
+C:\Projetos\Servico-WFC-Soap\Passagens\bin\Debug\Passagens.pdb
+C:\Projetos\Servico-WFC-Soap\Passagens\bin\Debug\EntityFramework.dll
+C:\Projetos\Servico-WFC-Soap\Passagens\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Servico-WFC-Soap\Passagens\bin\Debug\EntityFramework.xml
+C:\Projetos\Servico-WFC-Soap\Passagens\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Servico-WFC-Soap\Passagens\obj\Debug\Passagens.csproj.CoreCompileInputs.cache
+C:\Projetos\Servico-WFC-Soap\Passagens\obj\Debug\Passagens.csproj.CopyComplete
+C:\Projetos\Servico-WFC-Soap\Passagens\obj\Debug\Passagens.dll
+C:\Projetos\Servico-WFC-Soap\Passagens\obj\Debug\Passagens.pdb
+C:\Projetos\Servico-WFC-Soap\Passagens\obj\Debug\Passagens.csprojAssemblyReference.cache

@@ -6,3 +6,16 @@ C:\Projetos\AspNet\Passagens\Hosting\bin\Debug\Passagens.pdb
 C:\Projetos\AspNet\Passagens\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
 C:\Projetos\AspNet\Passagens\Hosting\obj\Debug\Hosting.exe
 C:\Projetos\AspNet\Passagens\Hosting\obj\Debug\Hosting.pdb
+C:\Projetos\Servico-WFC-Soap\Hosting\bin\Debug\Hosting.exe.config
+C:\Projetos\Servico-WFC-Soap\Hosting\bin\Debug\Hosting.exe
+C:\Projetos\Servico-WFC-Soap\Hosting\bin\Debug\Hosting.pdb
+C:\Projetos\Servico-WFC-Soap\Hosting\bin\Debug\Passagens.dll
+C:\Projetos\Servico-WFC-Soap\Hosting\bin\Debug\EntityFramework.dll
+C:\Projetos\Servico-WFC-Soap\Hosting\bin\Debug\Passagens.pdb
+C:\Projetos\Servico-WFC-Soap\Hosting\bin\Debug\Passagens.dll.config
+C:\Projetos\Servico-WFC-Soap\Hosting\bin\Debug\EntityFramework.xml
+C:\Projetos\Servico-WFC-Soap\Hosting\obj\Debug\Hosting.csprojAssemblyReference.cache
+C:\Projetos\Servico-WFC-Soap\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+C:\Projetos\Servico-WFC-Soap\Hosting\obj\Debug\Hosting.csproj.CopyComplete
+C:\Projetos\Servico-WFC-Soap\Hosting\obj\Debug\Hosting.exe
+C:\Projetos\Servico-WFC-Soap\Hosting\obj\Debug\Hosting.pdb
