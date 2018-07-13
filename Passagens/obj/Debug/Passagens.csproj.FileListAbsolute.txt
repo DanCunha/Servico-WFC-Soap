@@ -1,0 +1,6 @@
+C:\Projetos\AspNet\Passagens\Passagens\bin\Debug\Passagens.dll.config
+C:\Projetos\AspNet\Passagens\Passagens\bin\Debug\Passagens.dll
+C:\Projetos\AspNet\Passagens\Passagens\bin\Debug\Passagens.pdb
+C:\Projetos\AspNet\Passagens\Passagens\obj\Debug\Passagens.dll
+C:\Projetos\AspNet\Passagens\Passagens\obj\Debug\Passagens.pdb
+C:\Projetos\AspNet\Passagens\Passagens\obj\Debug\Passagens.csprojResolveAssemblyReference.cache

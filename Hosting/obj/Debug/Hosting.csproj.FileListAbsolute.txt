@@ -1,0 +1,8 @@
+C:\Projetos\AspNet\Passagens\Hosting\bin\Debug\Hosting.exe.config
+C:\Projetos\AspNet\Passagens\Hosting\bin\Debug\Hosting.exe
+C:\Projetos\AspNet\Passagens\Hosting\bin\Debug\Hosting.pdb
+C:\Projetos\AspNet\Passagens\Hosting\bin\Debug\Passagens.dll
+C:\Projetos\AspNet\Passagens\Hosting\bin\Debug\Passagens.pdb
+C:\Projetos\AspNet\Passagens\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+C:\Projetos\AspNet\Passagens\Hosting\obj\Debug\Hosting.exe
+C:\Projetos\AspNet\Passagens\Hosting\obj\Debug\Hosting.pdb
